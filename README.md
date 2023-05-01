@@ -2,4 +2,4 @@
 
 ## Сайт можно посмотреть тут ->
 
-[Landing-page HTML & CSS & JS](https://maxim1c.github.io/Landing-page/)
+[Резюме HTML & CSS ](https://maxim1c.github.io/Resume_DM/)
