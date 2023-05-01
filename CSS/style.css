@@ -96,6 +96,12 @@ body {
     position: relative;
 }
 
+.contactInfo a {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;    
+}
+
 .contactInfo ul li {
     position: relative;
     list-style: none;
